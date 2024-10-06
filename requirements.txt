@@ -1,0 +1,7 @@
+openai
+langchain
+chromadb
+flask
+langchain-community
+langchain_openai
+langchain_chroma
